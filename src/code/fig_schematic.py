@@ -1,0 +1,26 @@
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+from matplotlib.patches import FancyBboxPatch
+fig, ax = plt.subplots(figsize=(7.4, 3.5), dpi=450); ax.set_xlim(0, 100); ax.set_ylim(0, 50); ax.axis("off")
+def box(x, y, w, h, txt, fc):
+    ax.add_patch(FancyBboxPatch((x, y), w, h, boxstyle="round,pad=0.4,rounding_size=1.2", fc=fc, ec="k", lw=0.8))
+    ax.text(x + w / 2, y + h / 2, txt, ha="center", va="center", fontsize=6.6)
+def arr(x0, y0, x1, y1, txt="", dy=1.2, ls="-", col="k"):
+    ax.annotate("", xy=(x1, y1), xytext=(x0, y0), arrowprops=dict(arrowstyle="->", lw=0.9, ls=ls, color=col))
+    if txt: ax.text((x0 + x1) / 2, (y0 + y1) / 2 + dy, txt, ha="center", va="bottom", fontsize=5.8, color=col)
+box(1, 33, 24, 13, "Randomised simulator\n6-storey frame, 4 MR dampers\n(Bouc-Wen), noise, delay,\nsynthetic ground motion", "#dbe9f6")
+box(2, 10, 25, 13, "Uncontrolled twin\n(same plant, same motion,\nno dampers)", "#eeeeee")
+box(37, 33, 24, 13, "Physics-based observer\nnominal-model Kalman filter\n+ measurement history\n+ intensity features", "#fde8c8")
+box(71, 33, 26, 13, "Actor (MLP 128-128)\nvoltage per storey, every 0.1 s\nsees measurements only", "#f8d0cf")
+box(71, 10, 26, 13, "Privileged critic (MLP 256-256)\ntrue state, plant parameters,\nupcoming excitation\n(training only)", "#e3d5ee")
+box(37, 10, 24, 13, "Twin-normalised reward\npeak-increment terms (J1, J2)\n+ strain / inertial energy", "#d9efd6")
+arr(26.5, 41, 37, 41, "", 0); ax.text(31.7, 42, "floor acc.,\nstroke,\nforce", ha="center", va="bottom", fontsize=5.4)
+arr(61, 39.5, 71, 39.5, "observation")
+arr(84, 33, 84, 30, "", 0); ax.plot([84, 14.5], [30, 30], "k-", lw=0.9); arr(14.5, 30, 14.5, 33, "", 0)
+ax.text(50, 30.5, "command voltages (through actuation delay)", ha="center", va="bottom", fontsize=5.8)
+arr(27, 16.5, 37, 16.5, "normalisers")
+arr(61, 16.5, 71, 16.5, "reward")
+arr(20, 33, 44, 23, "responses", -3.6)
+arr(8, 33, 8, 23, "", 0, ls="--", col="#555555"); ax.text(8.6, 27.2, "same motion,\nsame plant", fontsize=5.2, color="#555555", va="center")
+arr(90, 23, 90, 33, "advantage (PPO)", 0, ls="--", col="#7b3fa0")
+fig.savefig("../figures/fig_schematic.png", bbox_inches="tight", dpi=450, facecolor="white", transparent=False)

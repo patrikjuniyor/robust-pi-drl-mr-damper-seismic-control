@@ -1,0 +1,15 @@
+agarwal2021|Agarwal Deep reinforcement learning at the edge of the statistical precipice NeurIPS 2021
+henderson2018|Henderson Deep reinforcement learning that matters AAAI 2018
+sutton2018|Sutton Barto Reinforcement Learning: An Introduction MIT Press 2018
+lillicrap|Lillicrap Continuous control with deep reinforcement learning
+ng1999|Ng Harada Russell Policy invariance under reward transformations: theory and application to reward shaping
+kanai1957|Kanai Semi-empirical formula for the seismic characteristics of the ground 1957
+clough|Clough Penzien Dynamics of Structures
+baker2015|Baker Efficient analytical fragility function fitting using dynamic structural analysis Earthquake Spectra 2015
+yi2001|Yi Dyke Caicedo Carlson Experimental verification of multi-input seismic control strategies for smart dampers Journal of Engineering Mechanics 2001
+chang2002|Chang Zhou Neural network emulation of inverse dynamics for a magnetorheological damper Journal of Structural Engineering 2002
+ha2018|Ha Schmidhuber World models
+ibarz2021|Ibarz How to train your robot with deep reinforcement learning: lessons we have learned International Journal of Robotics Research 2021
+rahmani2019|Rahmani Chase Wiering Konke A framework for brain learning-based control of smart structures Advanced Engineering Informatics 2019
+gao2024|deep reinforcement learning semi-active control magnetorheological damper building seismic 2024
+saaed2015|Saaed Nikolakopoulos Jonasson Hedlund A state-of-the-art review of structural control systems Journal of Vibration and Control 2015

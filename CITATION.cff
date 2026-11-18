@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper below."
+title: "Robust Physics-Informed Deep Reinforcement Learning for Semi-Active Seismic Control of Multi-Storey Buildings With MR Dampers"
+authors:
+  - family-names: "Alizadeh"
+    given-names: "Hassan"
+    affiliation: "Semnan University, Semnan, Iran"
+    email: "h.alizadeh@semnan.ac.ir"
+year: 2026
+type: software
+license: MIT
+repository-code: "https://github.com/patrikjuniyor/robust-pi-drl-mr-damper-seismic-control"
+keywords:
+  - semi-active control
+  - magnetorheological damper
+  - deep reinforcement learning
+  - domain randomisation
+  - structural control
+abstract: "Simulation, training, evaluation, statistics and manuscript-building code for a physics-informed deep reinforcement learning controller of MR dampers in a six-storey building under structural, device, sensing and actuation uncertainty."

@@ -1,0 +1,30 @@
+--name V_pi_dr_s0 --act volt --obs pi --dr 1 --seed 0
+--name V_pi_dr_s1 --act volt --obs pi --dr 1 --seed 1
+--name V_pi_dr_s2 --act volt --obs pi --dr 1 --seed 2
+--name V_pi_nom_s0 --act volt --obs pi --dr 0 --seed 0
+--name V_raw_dr_s0 --act volt --obs raw --dr 1 --seed 0
+--name V_pi_sym_s0 --act volt --obs pi --dr 1 --sym_critic 1 --seed 0
+--name V_pi_nom_s1 --act volt --obs pi --dr 0 --seed 1
+--name V_raw_dr_s1 --act volt --obs raw --dr 1 --seed 1
+--name V_pi_sym_s1 --act volt --obs pi --dr 1 --sym_critic 1 --seed 1
+--name V_pi_nom_s2 --act volt --obs pi --dr 0 --seed 2
+--name V_raw_dr_s2 --act volt --obs raw --dr 1 --seed 2
+--name V_pi_sym_s2 --act volt --obs pi --dr 1 --sym_critic 1 --seed 2
+--name V_pi_dr_s3 --act volt --obs pi --dr 1 --seed 3
+--name V_pi_nom_s3 --act volt --obs pi --dr 0 --seed 3
+--name V_pi_dr_s4 --act volt --obs pi --dr 1 --seed 4
+--name V_pi_nom_s4 --act volt --obs pi --dr 0 --seed 4
+--name V_pi_dr_s5 --act volt --obs pi --dr 1 --seed 5
+--name V_pi_nom_s5 --act volt --obs pi --dr 0 --seed 5
+--name V_pi_dr_s6 --act volt --obs pi --dr 1 --seed 6
+--name V_pi_nom_s6 --act volt --obs pi --dr 0 --seed 6
+--name V_pi_dr_s7 --act volt --obs pi --dr 1 --seed 7
+--name V_pi_nom_s7 --act volt --obs pi --dr 0 --seed 7
+--name V_pi_dr_s8 --act volt --obs pi --dr 1 --seed 8
+--name V_pi_nom_s8 --act volt --obs pi --dr 0 --seed 8
+--name V_pi_dr_s9 --act volt --obs pi --dr 1 --seed 9
+--name V_pi_nom_s9 --act volt --obs pi --dr 0 --seed 9
+--name V_raw_dr_s3 --act volt --obs raw --dr 1 --seed 3
+--name V_pi_sym_s3 --act volt --obs pi --dr 1 --sym_critic 1 --seed 3
+--name V_raw_dr_s4 --act volt --obs raw --dr 1 --seed 4
+--name V_pi_sym_s4 --act volt --obs pi --dr 1 --sym_critic 1 --seed 4

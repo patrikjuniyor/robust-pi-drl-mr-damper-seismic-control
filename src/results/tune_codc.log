@@ -1,0 +1,13 @@
+CO-DC r 0.0003 design delay 5 [2.211 0.558 0.8   0.375 0.455]
+CO-DC r 0.0003 design delay 10 [2.186 0.558 0.789 0.376 0.456]
+CO-DC r 0.0003 design delay None [2.114 0.558 0.753 0.377 0.431]
+CO-DC r 0.0001 design delay 5 [2.415 0.52  0.973 0.343 0.51 ]
+CO-DC r 0.0001 design delay 10 [2.29  0.515 0.916 0.341 0.487]
+CO-DC r 0.001 design delay 5 [2.32  0.609 0.765 0.425 0.469]
+CO-DC r 0.001 design delay 10 [2.327 0.61  0.778 0.427 0.469]
+CO-DC r 3e-05 design delay 5 [2.815 0.501 1.179 0.325 0.627]
+CO-DC r 3e-05 design delay 10 [2.665 0.494 1.079 0.322 0.603]
+CO-DC r 0.003 design delay 5 [2.52  0.651 0.778 0.472 0.502]
+CO-DC r 0.003 design delay 10 [2.512 0.652 0.771 0.473 0.504]
+best realisable 0.0003_10 [2.186 0.558 0.789 0.376 0.456]
+TUNE_DONE

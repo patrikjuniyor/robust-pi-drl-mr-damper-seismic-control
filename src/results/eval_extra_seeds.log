@@ -1,0 +1,129 @@
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+nominal   V_pi_dr_s3     N=  33 JT=1.482 J1=0.455 J2=0.597 J3=0.243 J4=0.331 (7s)
+nominal   V_pi_nom_s3    N=  33 JT=1.504 J1=0.454 J2=0.596 J3=0.253 J4=0.349 (5s)
+mc_in     V_pi_dr_s3     N= 330 JT=1.650 J1=0.465 J2=0.661 J3=0.264 J4=0.372 (60s)
+mc_in     V_pi_nom_s3    N= 330 JT=1.658 J1=0.464 J2=0.654 J3=0.273 J4=0.387 (38s)
+mc_ood    V_pi_dr_s3     N= 330 JT=1.747 J1=0.478 J2=0.677 J3=0.280 J4=0.398 (59s)
+mc_ood    V_pi_nom_s3    N= 330 JT=1.753 J1=0.474 J2=0.668 J3=0.288 J4=0.411 (37s)
+frag      V_pi_dr_s3     N= 352 JT=1.644 J1=0.485 J2=0.663 J3=0.268 J4=0.360 (63s)
+sw_stiff  V_pi_dr_s3     N=  99 JT=1.659 J1=0.464 J2=0.666 J3=0.269 J4=0.376 (18s)
+sw_noise  V_pi_dr_s3     N=  66 JT=1.438 J1=0.434 J2=0.599 J3=0.231 J4=0.324 (11s)
+sw_delay  V_pi_dr_s3     N=  66 JT=1.471 J1=0.450 J2=0.609 J3=0.233 J4=0.324 (12s)
+sw_cap    V_pi_dr_s3     N=  55 JT=1.501 J1=0.474 J2=0.604 J3=0.245 J4=0.325 (10s)
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+nominal   V_pi_dr_s4     N=  33 JT=1.465 J1=0.439 J2=0.598 J3=0.243 J4=0.330 (6s)
+nominal   V_pi_nom_s4    N=  33 JT=1.498 J1=0.454 J2=0.600 J3=0.249 J4=0.343 (4s)
+mc_in     V_pi_dr_s4     N= 330 JT=1.624 J1=0.454 J2=0.653 J3=0.264 J4=0.371 (44s)
+mc_in     V_pi_nom_s4    N= 330 JT=1.644 J1=0.465 J2=0.645 J3=0.271 J4=0.385 (29s)
+mc_ood    V_pi_dr_s4     N= 330 JT=1.730 J1=0.466 J2=0.674 J3=0.281 J4=0.398 (47s)
+mc_ood    V_pi_nom_s4    N= 330 JT=1.757 J1=0.483 J2=0.664 J3=0.288 J4=0.413 (28s)
+frag      V_pi_dr_s4     N= 352 JT=1.604 J1=0.469 J2=0.656 J3=0.264 J4=0.354 (48s)
+sw_stiff  V_pi_dr_s4     N=  99 JT=1.611 J1=0.447 J2=0.655 J3=0.265 J4=0.368 (13s)
+sw_noise  V_pi_dr_s4     N=  66 JT=1.432 J1=0.430 J2=0.598 J3=0.235 J4=0.319 (9s)
+sw_delay  V_pi_dr_s4     N=  66 JT=1.444 J1=0.446 J2=0.589 J3=0.236 J4=0.321 (9s)
+sw_cap    V_pi_dr_s4     N=  55 JT=1.473 J1=0.455 J2=0.608 J3=0.239 J4=0.315 (8s)
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+nominal   V_pi_dr_s5     N=  33 JT=1.453 J1=0.453 J2=0.585 J3=0.235 J4=0.324 (6s)
+nominal   V_pi_nom_s5    N=  33 JT=1.523 J1=0.459 J2=0.616 J3=0.247 J4=0.339 (4s)
+mc_in     V_pi_dr_s5     N= 330 JT=1.610 J1=0.467 J2=0.635 J3=0.258 J4=0.366 (52s)
+mc_in     V_pi_nom_s5    N= 330 JT=1.673 J1=0.470 J2=0.668 J3=0.271 J4=0.381 (32s)
+mc_ood    V_pi_dr_s5     N= 330 JT=1.708 J1=0.476 J2=0.661 J3=0.272 J4=0.391 (50s)
+mc_ood    V_pi_nom_s5    N= 330 JT=1.760 J1=0.480 J2=0.676 J3=0.283 J4=0.404 (31s)
+frag      V_pi_dr_s5     N= 352 JT=1.595 J1=0.479 J2=0.641 J3=0.260 J4=0.354 (51s)
+sw_stiff  V_pi_dr_s5     N=  99 JT=1.581 J1=0.461 J2=0.631 J3=0.255 J4=0.360 (15s)
+sw_noise  V_pi_dr_s5     N=  66 JT=1.383 J1=0.443 J2=0.561 J3=0.221 J4=0.310 (9s)
+sw_delay  V_pi_dr_s5     N=  66 JT=1.434 J1=0.454 J2=0.590 J3=0.225 J4=0.315 (10s)
+sw_cap    V_pi_dr_s5     N=  55 JT=1.469 J1=0.477 J2=0.593 J3=0.231 J4=0.313 (9s)
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+nominal   V_pi_dr_s6     N=  33 JT=1.483 J1=0.449 J2=0.625 J3=0.234 J4=0.320 (5s)
+nominal   V_pi_nom_s6    N=  33 JT=1.452 J1=0.443 J2=0.593 J3=0.237 J4=0.321 (4s)
+mc_in     V_pi_dr_s6     N= 330 JT=1.640 J1=0.461 J2=0.671 J3=0.258 J4=0.363 (47s)
+mc_in     V_pi_nom_s6    N= 330 JT=1.624 J1=0.457 J2=0.653 J3=0.263 J4=0.366 (31s)
+mc_ood    V_pi_dr_s6     N= 330 JT=1.730 J1=0.474 J2=0.681 J3=0.272 J4=0.389 (45s)
+mc_ood    V_pi_nom_s6    N= 330 JT=1.725 J1=0.467 J2=0.672 J3=0.279 J4=0.396 (30s)
+frag      V_pi_dr_s6     N= 352 JT=1.624 J1=0.480 J2=0.673 J3=0.261 J4=0.348 (48s)
+sw_stiff  V_pi_dr_s6     N=  99 JT=1.586 J1=0.439 J2=0.674 J3=0.245 J4=0.352 (14s)
+sw_noise  V_pi_dr_s6     N=  66 JT=1.425 J1=0.432 J2=0.620 J3=0.216 J4=0.304 (8s)
+sw_delay  V_pi_dr_s6     N=  66 JT=1.439 J1=0.441 J2=0.621 J3=0.218 J4=0.306 (8s)
+sw_cap    V_pi_dr_s6     N=  55 JT=1.472 J1=0.464 J2=0.623 J3=0.231 J4=0.303 (7s)
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+nominal   V_pi_dr_s7     N=  33 JT=1.500 J1=0.457 J2=0.610 J3=0.244 J4=0.330 (6s)
+nominal   V_pi_nom_s7    N=  33 JT=1.474 J1=0.445 J2=0.609 J3=0.239 J4=0.327 (4s)
+mc_in     V_pi_dr_s7     N= 330 JT=1.619 J1=0.463 J2=0.643 J3=0.262 J4=0.368 (49s)
+mc_in     V_pi_nom_s7    N= 330 JT=1.618 J1=0.455 J2=0.651 J3=0.262 J4=0.370 (30s)
+mc_ood    V_pi_dr_s7     N= 330 JT=1.720 J1=0.473 J2=0.663 J3=0.279 J4=0.394 (49s)
+mc_ood    V_pi_nom_s7    N= 330 JT=1.715 J1=0.465 J2=0.669 J3=0.277 J4=0.397 (33s)
+frag      V_pi_dr_s7     N= 352 JT=1.602 J1=0.478 J2=0.643 J3=0.264 J4=0.354 (49s)
+sw_stiff  V_pi_dr_s7     N=  99 JT=1.606 J1=0.455 J2=0.643 J3=0.263 J4=0.367 (14s)
+sw_noise  V_pi_dr_s7     N=  66 JT=1.457 J1=0.442 J2=0.616 J3=0.227 J4=0.321 (9s)
+sw_delay  V_pi_dr_s7     N=  66 JT=1.452 J1=0.450 J2=0.600 J3=0.229 J4=0.320 (9s)
+sw_cap    V_pi_dr_s7     N=  55 JT=1.490 J1=0.468 J2=0.616 J3=0.236 J4=0.316 (8s)
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+nominal   V_pi_dr_s8     N=  33 JT=1.459 J1=0.455 J2=0.594 J3=0.236 J4=0.322 (5s)
+nominal   V_pi_nom_s8    N=  33 JT=1.448 J1=0.439 J2=0.596 J3=0.235 J4=0.327 (4s)
+mc_in     V_pi_dr_s8     N= 330 JT=1.595 J1=0.456 J2=0.638 J3=0.257 J4=0.362 (47s)
+mc_in     V_pi_nom_s8    N= 330 JT=1.596 J1=0.451 J2=0.643 J3=0.256 J4=0.367 (34s)
+mc_ood    V_pi_dr_s8     N= 330 JT=1.698 J1=0.467 J2=0.662 J3=0.273 J4=0.389 (46s)
+mc_ood    V_pi_nom_s8    N= 330 JT=1.691 J1=0.465 J2=0.660 J3=0.269 J4=0.392 (36s)
+frag      V_pi_dr_s8     N= 352 JT=1.581 J1=0.475 J2=0.639 J3=0.260 J4=0.347 (50s)
+sw_stiff  V_pi_dr_s8     N=  99 JT=1.589 J1=0.445 J2=0.658 J3=0.253 J4=0.361 (14s)
+sw_noise  V_pi_dr_s8     N=  66 JT=1.411 J1=0.435 J2=0.596 J3=0.223 J4=0.312 (10s)
+sw_delay  V_pi_dr_s8     N=  66 JT=1.440 J1=0.445 J2=0.610 J3=0.226 J4=0.314 (10s)
+sw_cap    V_pi_dr_s8     N=  55 JT=1.447 J1=0.463 J2=0.591 J3=0.234 J4=0.310 (8s)
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+nominal   V_pi_dr_s9     N=  33 JT=1.471 J1=0.443 J2=0.596 J3=0.245 J4=0.335 (5s)
+nominal   V_pi_nom_s9    N=  33 JT=1.556 J1=0.448 J2=0.604 J3=0.273 J4=0.376 (3s)
+mc_in     V_pi_dr_s9     N= 330 JT=1.622 J1=0.452 J2=0.647 J3=0.267 J4=0.377 (41s)
+mc_in     V_pi_nom_s9    N= 330 JT=1.745 J1=0.468 J2=0.672 J3=0.296 J4=0.421 (28s)
+mc_ood    V_pi_dr_s9     N= 330 JT=1.716 J1=0.462 J2=0.662 J3=0.280 J4=0.401 (42s)
+mc_ood    V_pi_nom_s9    N= 330 JT=1.862 J1=0.483 J2=0.690 J3=0.314 J4=0.453 (27s)
+frag      V_pi_dr_s9     N= 352 JT=1.614 J1=0.469 J2=0.652 J3=0.269 J4=0.363 (44s)
+sw_stiff  V_pi_dr_s9     N=  99 JT=1.660 J1=0.452 J2=0.657 J3=0.279 J4=0.388 (12s)
+sw_noise  V_pi_dr_s9     N=  66 JT=1.455 J1=0.434 J2=0.603 J3=0.238 J4=0.332 (8s)
+sw_delay  V_pi_dr_s9     N=  66 JT=1.450 J1=0.439 J2=0.596 J3=0.237 J4=0.331 (8s)
+sw_cap    V_pi_dr_s9     N=  55 JT=1.491 J1=0.462 J2=0.611 J3=0.244 J4=0.327 (7s)
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+nominal   V_pi_sym_s3    N=  33 JT=1.567 J1=0.476 J2=0.630 J3=0.257 J4=0.341 (6s)
+nominal   V_raw_dr_s3    N=  33 JT=1.490 J1=0.456 J2=0.593 J3=0.246 J4=0.336 (3s)
+mc_in     V_pi_sym_s3    N= 330 JT=1.739 J1=0.500 J2=0.676 J3=0.283 J4=0.388 (45s)
+mc_in     V_raw_dr_s3    N= 330 JT=1.640 J1=0.466 J2=0.650 J3=0.266 J4=0.375 (32s)
+mc_ood    V_pi_sym_s3    N= 330 JT=1.842 J1=0.507 J2=0.694 J3=0.300 J4=0.419 (48s)
+mc_ood    V_raw_dr_s3    N= 330 JT=1.740 J1=0.480 J2=0.667 J3=0.280 J4=0.400 (31s)
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+EVAL_DONE 0
+nominal   V_pi_sym_s4    N=  33 JT=1.566 J1=0.474 J2=0.637 J3=0.257 J4=0.329 (4s)
+nominal   V_raw_dr_s4    N=  33 JT=1.441 J1=0.445 J2=0.596 J3=0.231 J4=0.309 (3s)
+mc_in     V_pi_sym_s4    N= 330 JT=1.735 J1=0.496 J2=0.684 J3=0.282 J4=0.378 (32s)
+mc_in     V_raw_dr_s4    N= 330 JT=1.585 J1=0.455 J2=0.640 J3=0.254 J4=0.353 (24s)
+mc_ood    V_pi_sym_s4    N= 330 JT=1.834 J1=0.506 J2=0.695 J3=0.300 J4=0.410 (32s)
+mc_ood    V_raw_dr_s4    N= 330 JT=1.682 J1=0.465 J2=0.661 J3=0.267 J4=0.380 (26s)
+EVAL_DONE 0

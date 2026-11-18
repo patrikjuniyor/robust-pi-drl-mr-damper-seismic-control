@@ -1,0 +1,4 @@
+wilcoxon1945|10.2307/3001968
+ljung|Kwakernaak Sivan Linear Optimal Control Systems 1972
+kanai_beri|Kanai Semi-empirical formula for the seismic characteristics of the ground Bulletin of the Earthquake Research Institute 1957
+tajimi|Tajimi A statistical method of determining the maximum response of a building structure during an earthquake

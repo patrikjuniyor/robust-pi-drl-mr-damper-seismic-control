@@ -1,0 +1,1233 @@
+{
+ "dyke1996": {
+  "authors": [
+   "Dyke S.J.",
+   "Spencer B.F.",
+   "Sain M.K.",
+   "Carlson J.D."
+  ],
+  "year": 1996,
+  "title": "Modeling and control of magnetorheological dampers for seismic response reduction",
+  "venue": "Smart Materials and Structures",
+  "vol": "5",
+  "issue": "5",
+  "page": "565-575",
+  "doi": "10.1088/0964-1726/5/5/006"
+ },
+ "spencer1997": {
+  "authors": [
+   "Spencer B.F.",
+   "Dyke S.J.",
+   "Sain M.K.",
+   "Carlson J.D."
+  ],
+  "year": 1997,
+  "title": "Phenomenological Model for Magnetorheological Dampers",
+  "venue": "Journal of Engineering Mechanics",
+  "vol": "123",
+  "issue": "3",
+  "page": "230-238",
+  "doi": "10.1061/(asce)0733-9399(1997)123:3(230)"
+ },
+ "dyke1998": {
+  "authors": [
+   "Dyke S.J.",
+   "Spencer B.F.",
+   "Sain M.K.",
+   "Carlson J.D."
+  ],
+  "year": 1998,
+  "title": "An experimental study of MR dampers for seismic protection",
+  "venue": "Smart Materials and Structures",
+  "vol": "7",
+  "issue": "5",
+  "page": "693-703",
+  "doi": "10.1088/0964-1726/7/5/012"
+ },
+ "jansen2000": {
+  "authors": [
+   "Jansen L.M.",
+   "Dyke S.J."
+  ],
+  "year": 2000,
+  "title": "Semiactive Control Strategies for MR Dampers: Comparative Study",
+  "venue": "Journal of Engineering Mechanics",
+  "vol": "126",
+  "issue": "8",
+  "page": "795-803",
+  "doi": "10.1061/(asce)0733-9399(2000)126:8(795)"
+ },
+ "housner1997": {
+  "authors": [
+   "Housner G.W.",
+   "Bergman L.A.",
+   "Caughey T.K.",
+   "Chassiakos A.G.",
+   "Claus R.O.",
+   "Masri S.F.",
+   "Skelton R.E.",
+   "Soong T.T.",
+   "Spencer B.F.",
+   "Yao J.T.P."
+  ],
+  "year": 1997,
+  "title": "Structural Control: Past, Present, and Future",
+  "venue": "Journal of Engineering Mechanics",
+  "vol": "123",
+  "issue": "9",
+  "page": "897-971",
+  "doi": "10.1061/(asce)0733-9399(1997)123:9(897)"
+ },
+ "spencer2003": {
+  "authors": [
+   "Spencer B.F.",
+   "Nagarajaiah S."
+  ],
+  "year": 2003,
+  "title": "State of the Art of Structural Control",
+  "venue": "Journal of Structural Engineering",
+  "vol": "129",
+  "issue": "7",
+  "page": "845-856",
+  "doi": "10.1061/(asce)0733-9445(2003)129:7(845)"
+ },
+ "soong2002": {
+  "authors": [
+   "Soong T.",
+   "Spencer B."
+  ],
+  "year": 2002,
+  "title": "Supplemental energy dissipation: state-of-the-art and state-of-the-practice",
+  "venue": "Engineering Structures",
+  "vol": "24",
+  "issue": "3",
+  "page": "243-259",
+  "doi": "10.1016/s0141-0296(01)00092-x"
+ },
+ "symans1999": {
+  "authors": [
+   "Symans M.D.",
+   "Constantinou M.C."
+  ],
+  "year": 1999,
+  "title": "Semi-active control systems for seismic protection of structures: a state-of-the-art review",
+  "venue": "Engineering Structures",
+  "vol": "21",
+  "issue": "6",
+  "page": "469-487",
+  "doi": "10.1016/s0141-0296(97)00225-3"
+ },
+ "ohtori2004": {
+  "authors": [
+   "Ohtori Y.",
+   "Christenson R.E.",
+   "Spencer B.F.",
+   "Dyke S.J."
+  ],
+  "year": 2004,
+  "title": "Benchmark Control Problems for Seismically Excited Nonlinear Buildings",
+  "venue": "Journal of Engineering Mechanics",
+  "vol": "130",
+  "issue": "4",
+  "page": "366-385",
+  "doi": "10.1061/(asce)0733-9399(2004)130:4(366)"
+ },
+ "yoshida2004": {
+  "authors": [
+   "Yoshida O.",
+   "Dyke S.J."
+  ],
+  "year": 2004,
+  "title": "Seismic Control of a Nonlinear Benchmark Building Using Smart Dampers",
+  "venue": "Journal of Engineering Mechanics",
+  "vol": "130",
+  "issue": "4",
+  "page": "386-392",
+  "doi": "10.1061/(asce)0733-9399(2004)130:4(386)"
+ },
+ "yang2002": {
+  "authors": [
+   "Yang G.",
+   "Spencer B.",
+   "Carlson J.",
+   "Sain M."
+  ],
+  "year": 2002,
+  "title": "Large-scale MR fluid dampers: modeling and dynamic performance considerations",
+  "venue": "Engineering Structures",
+  "vol": "24",
+  "issue": "3",
+  "page": "309-323",
+  "doi": "10.1016/s0141-0296(01)00097-9"
+ },
+ "bitaraf2010": {
+  "authors": [
+   "Bitaraf M.",
+   "Ozbulut O.E.",
+   "Hurlebaus S.",
+   "Barroso L."
+  ],
+  "year": 2010,
+  "title": "Application of semi-active control strategies for seismic protection of buildings with MR dampers",
+  "venue": "Engineering Structures",
+  "vol": "32",
+  "issue": "10",
+  "page": "3040-3047",
+  "doi": "10.1016/j.engstruct.2010.05.023"
+ },
+ "schurter2001": {
+  "authors": [
+   "Schurter K.",
+   "Roschke P."
+  ],
+  "year": 2001,
+  "title": "Neuro-fuzzy control of structures using magnetorheological dampers",
+  "venue": "Proceedings of the 2001 American Control Conference. (Cat. No.01CH37148)",
+  "vol": null,
+  "issue": null,
+  "page": "1097-1102 vol.2",
+  "doi": "10.1109/acc.2001.945866"
+ },
+ "banihani2006": {
+  "authors": [
+   "Bani-Hani K.A.",
+   "Sheban M.A."
+  ],
+  "year": 2006,
+  "title": "Semi-active neuro-control for base-isolation system using magnetorheological (MR) dampers",
+  "venue": "Earthquake Engineering & Structural Dynamics",
+  "vol": "35",
+  "issue": "9",
+  "page": "1119-1144",
+  "doi": "10.1002/eqe.574"
+ },
+ "khalat2019": {
+  "authors": [
+   "Khalatbarisoltani A.",
+   "Soleymani M.",
+   "Khodadadi M."
+  ],
+  "year": 2018,
+  "title": "Online control of an active seismic system via reinforcement learning",
+  "venue": "Structural Control and Health Monitoring",
+  "vol": "26",
+  "issue": "3",
+  "page": "e2298",
+  "doi": "10.1002/stc.2298"
+ },
+ "zhang2023": {
+  "authors": [
+   "Zhang Y.A.",
+   "Zhu S."
+  ],
+  "year": 2023,
+  "title": "Novel Model-free Optimal Active Vibration Control Strategy Based on Deep Reinforcement Learning",
+  "venue": "Structural Control and Health Monitoring",
+  "vol": "2023",
+  "issue": null,
+  "page": "1-15",
+  "doi": "10.1155/2023/6770137"
+ },
+ "kim2023": {
+  "authors": [
+   "Kim H.S.",
+   "Kim U."
+  ],
+  "year": 2023,
+  "title": "Development of a Control Algorithm for a Semi-Active Mid-Story Isolation System Using Reinforcement Learning",
+  "venue": "Applied Sciences",
+  "vol": "13",
+  "issue": "4",
+  "page": "2053",
+  "doi": "10.3390/app13042053"
+ },
+ "panda2024": {
+  "authors": [
+   "Javadinasab Hormozabad S.",
+   "Jacobs N.",
+   "Gutierrez Soto M."
+  ],
+  "year": 2024,
+  "title": "Reinforcement Learning for Integrated Structural Control and Health Monitoring",
+  "venue": "Practice Periodical on Structural Design and Construction",
+  "vol": "29",
+  "issue": "3",
+  "page": null,
+  "doi": "10.1061/ppscfx.sceng-1455"
+ },
+ "kouts2026": {
+  "authors": [
+   "Koutsoloukas L.",
+   "Nikitas N.",
+   "Caetano E.d.S."
+  ],
+  "year": 2026,
+  "title": "A Reinforcement Learning–Controlled Novel Mode‐Switching Hybrid Mass Damper on a Real Tower",
+  "venue": "Structural Control and Health Monitoring",
+  "vol": "2026",
+  "issue": "1",
+  "page": null,
+  "doi": "10.1155/stc/9603014"
+ },
+ "asai2026": {
+  "authors": [
+   "Asai T."
+  ],
+  "year": 2026,
+  "title": "Control Force Characteristics and Seismic Control Performance Produced by Deep Reinforcement Learning",
+  "venue": "Structural Control and Health Monitoring",
+  "vol": "2026",
+  "issue": "1",
+  "page": null,
+  "doi": "10.1155/stc/1244542"
+ },
+ "seismind": {
+  "authors": [
+   "Wang Z.",
+   "Gao Y.",
+   "Chen Y.",
+   "Lu Z."
+  ],
+  "year": 2026,
+  "title": "SeisMind: A domain-knowledge-informed reinforcement learning framework for intelligent control of structural seismic response",
+  "venue": "Expert Systems with Applications",
+  "vol": "309",
+  "issue": null,
+  "page": "131171",
+  "doi": "10.1016/j.eswa.2026.131171"
+ },
+ "gheni2024": {
+  "authors": [
+   "Gheni E.Z.",
+   "Al-Khafaji H.M.H.",
+   "Alwan H.M."
+  ],
+  "year": 2024,
+  "title": "A deep reinforcement learning framework to modify LQR for an active vibration control applied to 2D building models",
+  "venue": "Open Engineering",
+  "vol": "14",
+  "issue": "1",
+  "page": null,
+  "doi": "10.1515/eng-2022-0496"
+ },
+ "zhangbeam2025": {
+  "authors": [
+   "Zhang Y.A.",
+   "Zhu S."
+  ],
+  "year": 2024,
+  "title": "Active nonlinear vibration control of a buckled beam based on deep reinforcement learning",
+  "venue": "Journal of Vibration and Control",
+  "vol": "31",
+  "issue": "1-2",
+  "page": "70-81",
+  "doi": "10.1177/10775463241264112"
+ },
+ "cable": {
+  "authors": [
+   "Zhao M.",
+   "Zhu W."
+  ],
+  "year": 2010,
+  "title": "Stochastic optimal semi-active control of stay cables by using magneto-rheological damper",
+  "venue": "Journal of Vibration and Control",
+  "vol": "17",
+  "issue": "13",
+  "page": "1921-1929",
+  "doi": "10.1177/1077546310371263"
+ },
+ "mnih2015": {
+  "authors": [
+   "Mnih V.",
+   "Kavukcuoglu K.",
+   "Silver D.",
+   "Rusu A.A.",
+   "Veness J.",
+   "Bellemare M.G.",
+   "Graves A.",
+   "Riedmiller M.",
+   "Fidjeland A.K.",
+   "Ostrovski G.",
+   "Petersen S.",
+   "Beattie C.",
+   "Sadik A.",
+   "Antonoglou I.",
+   "King H.",
+   "Kumaran D.",
+   "Wierstra D.",
+   "Legg S.",
+   "Hassabis D."
+  ],
+  "year": 2015,
+  "title": "Human-level control through deep reinforcement learning",
+  "venue": "Nature",
+  "vol": "518",
+  "issue": "7540",
+  "page": "529-533",
+  "doi": "10.1038/nature14236"
+ },
+ "raissi2019": {
+  "authors": [
+   "Raissi M.",
+   "Perdikaris P.",
+   "Karniadakis G."
+  ],
+  "year": 2019,
+  "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+  "venue": "Journal of Computational Physics",
+  "vol": "378",
+  "issue": null,
+  "page": "686-707",
+  "doi": "10.1016/j.jcp.2018.10.045"
+ },
+ "karniadakis2021": {
+  "authors": [
+   "Karniadakis G.E.",
+   "Kevrekidis I.G.",
+   "Lu L.",
+   "Perdikaris P.",
+   "Wang S.",
+   "Yang L."
+  ],
+  "year": 2021,
+  "title": "Physics-informed machine learning",
+  "venue": "Nature Reviews Physics",
+  "vol": "3",
+  "issue": "6",
+  "page": "422-440",
+  "doi": "10.1038/s42254-021-00314-5"
+ },
+ "kaelbling1998": {
+  "authors": [
+   "Kaelbling L.P.",
+   "Littman M.L.",
+   "Cassandra A.R."
+  ],
+  "year": 1998,
+  "title": "Planning and acting in partially observable stochastic domains",
+  "venue": "Artificial Intelligence",
+  "vol": "101",
+  "issue": "1-2",
+  "page": "99-134",
+  "doi": "10.1016/s0004-3702(98)00023-x"
+ },
+ "rockafellar2000": {
+  "authors": [
+   "Rockafellar R.T.",
+   "Uryasev S."
+  ],
+  "year": 2000,
+  "title": "Optimization of conditional value-at-risk",
+  "venue": "The Journal of Risk",
+  "vol": "2",
+  "issue": "3",
+  "page": "21-41",
+  "doi": "10.21314/jor.2000.038"
+ },
+ "vamvatsikos2002": {
+  "authors": [
+   "Vamvatsikos D.",
+   "Cornell C.A."
+  ],
+  "year": 2001,
+  "title": "Incremental dynamic analysis",
+  "venue": "Earthquake Engineering & Structural Dynamics",
+  "vol": "31",
+  "issue": "3",
+  "page": "491-514",
+  "doi": "10.1002/eqe.141"
+ },
+ "efron1979": {
+  "authors": [
+   "Efron B."
+  ],
+  "year": 1979,
+  "title": "Bootstrap Methods: Another Look at the Jackknife",
+  "venue": "The Annals of Statistics",
+  "vol": "7",
+  "issue": "1",
+  "page": "1-26",
+  "doi": "10.1214/aos/1176344552"
+ },
+ "kalman1960": {
+  "authors": [
+   "Kalman R.E."
+  ],
+  "year": 1960,
+  "title": "A New Approach to Linear Filtering and Prediction Problems",
+  "venue": "Journal of Basic Engineering",
+  "vol": "82",
+  "issue": "1",
+  "page": "35-45",
+  "doi": "10.1115/1.3662552"
+ },
+ "rezaeian2008": {
+  "authors": [
+   "Rezaeian S.",
+   "Der Kiureghian A."
+  ],
+  "year": 2008,
+  "title": "A stochastic ground motion model with separable temporal and spectral nonstationarities",
+  "venue": "Earthquake Engineering & Structural Dynamics",
+  "vol": "37",
+  "issue": "13",
+  "page": "1565-1584",
+  "doi": "10.1002/eqe.831"
+ },
+ "muratore2022": {
+  "authors": [
+   "Muratore F.",
+   "Ramos F.",
+   "Turk G.",
+   "Yu W.",
+   "Gienger M.",
+   "Peters J."
+  ],
+  "year": 2022,
+  "title": "Robot Learning From Randomized Simulations: A Review",
+  "venue": "Frontiers in Robotics and AI",
+  "vol": "9",
+  "issue": null,
+  "page": null,
+  "doi": "10.3389/frobt.2022.799893"
+ },
+ "lam2015": {
+  "authors": [
+   "Lam S.K.",
+   "Pitrou A.",
+   "Seibert S."
+  ],
+  "year": 2015,
+  "title": "Numba",
+  "venue": "Proceedings of the Second Workshop on the LLVM Compiler Infrastructure in HPC",
+  "vol": null,
+  "issue": null,
+  "page": "1-6",
+  "doi": "10.1145/2833157.2833162"
+ },
+ "tobin2017": {
+  "authors": [
+   "Tobin J.",
+   "Fong R.",
+   "Ray A.",
+   "Schneider J.",
+   "Zaremba W.",
+   "Abbeel P."
+  ],
+  "year": 2017,
+  "title": "Domain randomization for transferring deep neural networks from simulation to the real world",
+  "venue": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+  "vol": null,
+  "issue": null,
+  "page": "23-30",
+  "doi": "10.1109/iros.2017.8202133"
+ },
+ "peng2018": {
+  "authors": [
+   "Peng X.B.",
+   "Andrychowicz M.",
+   "Zaremba W.",
+   "Abbeel P."
+  ],
+  "year": 2018,
+  "title": "Sim-to-Real Transfer of Robotic Control with Dynamics Randomization",
+  "venue": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+  "vol": null,
+  "issue": null,
+  "page": "3803-3810",
+  "doi": "10.1109/icra.2018.8460528"
+ },
+ "pinto2018": {
+  "authors": [
+   "Pinto L.",
+   "Andrychowicz M.",
+   "Welinder P.",
+   "Zaremba W.",
+   "Abbeel P."
+  ],
+  "year": 2018,
+  "title": "Asymmetric Actor Critic for Image-Based Robot Learning",
+  "venue": "Robotics: Science and Systems XIV",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": "10.15607/rss.2018.xiv.008"
+ },
+ "openai2020": {
+  "authors": [
+   "Hang K.",
+   "Bircher W.G.",
+   "Morgan A.S.",
+   "Dollar A.M."
+  ],
+  "year": 2019,
+  "title": "Hand–object configuration estimation using particle filters for dexterous in-hand manipulation",
+  "venue": "The International Journal of Robotics Research",
+  "vol": "39",
+  "issue": "14",
+  "page": "1760-1774",
+  "doi": "10.1177/0278364919883343"
+ },
+ "kwok1995": {
+  "authors": [
+   "Kwok N.",
+   "Ha Q.",
+   "Nguyen M.",
+   "Li J.",
+   "Samali B."
+  ],
+  "year": 2007,
+  "title": "Bouc–Wen model parameter identification for a MR fluid damper using computationally efficient GA",
+  "venue": "ISA Transactions",
+  "vol": "46",
+  "issue": "2",
+  "page": "167-179",
+  "doi": "10.1016/j.isatra.2006.08.005"
+ },
+ "wen1976": {
+  "authors": [
+   "Wen Y.K."
+  ],
+  "year": 1976,
+  "title": "Method for Random Vibration of Hysteretic Systems",
+  "venue": "Journal of the Engineering Mechanics Division",
+  "vol": "102",
+  "issue": "2",
+  "page": "249-263",
+  "doi": "10.1061/jmcea3.0002106"
+ },
+ "agarwal2021": {
+  "authors": [
+   "Agarwal T.",
+   "Arora H.",
+   "Schneider J."
+  ],
+  "year": 2021,
+  "title": "Learning Urban Driving Policies using Deep Reinforcement Learning",
+  "venue": "2021 IEEE International Intelligent Transportation Systems Conference (ITSC)",
+  "vol": null,
+  "issue": null,
+  "page": "607-614",
+  "doi": "10.1109/itsc48978.2021.9564412"
+ },
+ "henderson2018": {
+  "authors": [
+   "Henderson P.",
+   "Islam R.",
+   "Bachman P.",
+   "Pineau J.",
+   "Precup D.",
+   "Meger D."
+  ],
+  "year": 2018,
+  "title": "Deep Reinforcement Learning That Matters",
+  "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "vol": "32",
+  "issue": "1",
+  "page": null,
+  "doi": "10.1609/aaai.v32i1.11694"
+ },
+ "sutton2018": {
+  "authors": [
+   "Rao R."
+  ],
+  "year": 2000,
+  "title": "Reinforcement Learning: An Introduction; R.S. Sutton, A.G. Barto (Eds.); MIT Press, Cambridge, MA, 1998, 380 pages, ISBN 0-262-19398-1, $42.00",
+  "venue": "Neural Networks",
+  "vol": "13",
+  "issue": "1",
+  "page": "133-135",
+  "doi": "10.1016/s0893-6080(99)00098-2"
+ },
+ "lillicrap": {
+  "authors": [
+   "Zhang S."
+  ],
+  "year": null,
+  "title": "Continuous control for robot based on deep reinforcement learning",
+  "venue": "",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": "10.32657/10356/90191"
+ },
+ "ng1999": {
+  "authors": [
+   "Mannion P.",
+   "Devlin S.",
+   "Mason K.",
+   "Duggan J.",
+   "Howley E."
+  ],
+  "year": 2017,
+  "title": "Policy invariance under reward transformations for multi-objective reinforcement learning",
+  "venue": "Neurocomputing",
+  "vol": "263",
+  "issue": null,
+  "page": "60-73",
+  "doi": "10.1016/j.neucom.2017.05.090"
+ },
+ "kanai1957": {
+  "authors": [
+   "Kanai K."
+  ],
+  "year": 1957,
+  "title": "210) Semi-empirical Formula for the Seismic Characteristics of Ground(Structure)",
+  "venue": "Transactions of the Architectural Institute of Japan",
+  "vol": "57.1",
+  "issue": "0",
+  "page": "281-284",
+  "doi": "10.3130/aijsaxx.57.1.0_281"
+ },
+ "clough": {
+  "authors": [
+   "Clough R.W.",
+   "Penzien J.",
+   "Griffin D.S."
+  ],
+  "year": 1977,
+  "title": "Dynamics of Structures",
+  "venue": "Journal of Applied Mechanics",
+  "vol": "44",
+  "issue": "2",
+  "page": "366-366",
+  "doi": "10.1115/1.3424082"
+ },
+ "baker2015": {
+  "authors": [
+   "Baker J.W."
+  ],
+  "year": 2015,
+  "title": "Efficient Analytical Fragility Function Fitting Using Dynamic Structural Analysis",
+  "venue": "Earthquake Spectra",
+  "vol": "31",
+  "issue": "1",
+  "page": "579-599",
+  "doi": "10.1193/021113eqs025m"
+ },
+ "yi2001": {
+  "authors": [
+   "Yi F.",
+   "Dyke S.J.",
+   "Caicedo J.M.",
+   "Carlson J.D."
+  ],
+  "year": 2001,
+  "title": "Experimental Verification of Multiinput Seismic Control Strategies for Smart Dampers",
+  "venue": "Journal of Engineering Mechanics",
+  "vol": "127",
+  "issue": "11",
+  "page": "1152-1164",
+  "doi": "10.1061/(asce)0733-9399(2001)127:11(1152)"
+ },
+ "chang2002": {
+  "authors": [
+   "Chang C.C.",
+   "Zhou L."
+  ],
+  "year": 2002,
+  "title": "Neural Network Emulation of Inverse Dynamics for a Magnetorheological Damper",
+  "venue": "Journal of Structural Engineering",
+  "vol": "128",
+  "issue": "2",
+  "page": "231-239",
+  "doi": "10.1061/(asce)0733-9445(2002)128:2(231)"
+ },
+ "ha2018": {
+  "authors": [
+   "Wiering M.",
+   "Sałustowicz R.",
+   "Schmidhuber J."
+  ],
+  "year": 1999,
+  "title": "Reinforcement Learning Soccer Teams with Incomplete World Models",
+  "venue": "Autonomous Robots",
+  "vol": "7",
+  "issue": "1",
+  "page": "77-88",
+  "doi": "10.1023/a:1008921914343"
+ },
+ "ibarz2021": {
+  "authors": [
+   "Ibarz J.",
+   "Tan J.",
+   "Finn C.",
+   "Kalakrishnan M.",
+   "Pastor P.",
+   "Levine S."
+  ],
+  "year": 2021,
+  "title": "How to train your robot with deep reinforcement learning: lessons we have learned",
+  "venue": "The International Journal of Robotics Research",
+  "vol": "40",
+  "issue": "4-5",
+  "page": "698-721",
+  "doi": "10.1177/0278364920987859"
+ },
+ "rahmani2019": {
+  "authors": [
+   "Radmard Rahmani H.",
+   "Chase G.",
+   "Wiering M.",
+   "Könke C."
+  ],
+  "year": 2019,
+  "title": "A framework for brain learning-based control of smart structures",
+  "venue": "Advanced Engineering Informatics",
+  "vol": "42",
+  "issue": null,
+  "page": "100986",
+  "doi": "10.1016/j.aei.2019.100986"
+ },
+ "gao2024": {
+  "authors": [
+   "Bhowmik K.",
+   "Debnath N."
+  ],
+  "year": 2024,
+  "title": "Semi-active Vibration Control of Soft-Storey Building with Magnetorheological Damper Under Seismic Excitation",
+  "venue": "Journal of Vibration Engineering & Technologies",
+  "vol": "12",
+  "issue": "4",
+  "page": "6943-6961",
+  "doi": "10.1007/s42417-024-01292-5"
+ },
+ "saaed2015": {
+  "authors": [
+   "Saaed T.E.",
+   "Nikolakopoulos G.",
+   "Jonasson J.E.",
+   "Hedlund H."
+  ],
+  "year": 2013,
+  "title": "A state-of-the-art review of structural control systems",
+  "venue": "Journal of Vibration and Control",
+  "vol": "21",
+  "issue": "5",
+  "page": "919-937",
+  "doi": "10.1177/1077546313478294"
+ },
+ "wilcoxon1945": {
+  "authors": [
+   "Wilcoxon F."
+  ],
+  "year": 1945,
+  "title": "Individual Comparisons by Ranking Methods",
+  "venue": "Biometrics Bulletin",
+  "vol": "1",
+  "issue": "6",
+  "page": "80",
+  "doi": "10.2307/3001968"
+ },
+ "ljung": {
+  "authors": [
+   "Kwakernaak H.",
+   "Sivan R."
+  ],
+  "year": 1972,
+  "title": "The maximally achievable accuracy of linear optimal regulators and linear optimal filters",
+  "venue": "IEEE Transactions on Automatic Control",
+  "vol": "17",
+  "issue": "1",
+  "page": "79-86",
+  "doi": "10.1109/tac.1972.1099865"
+ },
+ "kanai_beri": {
+  "authors": [
+   "Kanai K."
+  ],
+  "year": 1957,
+  "title": "210) Semi-empirical Formula for the Seismic Characteristics of Ground(Structure)",
+  "venue": "Transactions of the Architectural Institute of Japan",
+  "vol": "57.1",
+  "issue": "0",
+  "page": "281-284",
+  "doi": "10.3130/aijsaxx.57.1.0_281"
+ },
+ "tajimi": {
+  "authors": [
+   "Tajimi H."
+  ],
+  "year": 1958,
+  "title": "2005) Estimation of the Maximum Response of Building to Earthquake Motions by the Statistical method(Structure)",
+  "venue": "Transactions of the Architectural Institute of Japan",
+  "vol": "60.1",
+  "issue": "0",
+  "page": "249-252",
+  "doi": "10.3130/aijsaxx.60.1.0_249"
+ },
+ "arxiv:1801.01290": {
+  "authors": [
+   "Haarnoja T.",
+   "Zhou A.",
+   "Abbeel P.",
+   "Levine S."
+  ],
+  "year": 2018,
+  "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1801.01290"
+ },
+ "arxiv:1703.06907": {
+  "authors": [
+   "Tobin J.",
+   "Fong R.",
+   "Ray A.",
+   "Schneider J.",
+   "Zaremba W.",
+   "Abbeel P."
+  ],
+  "year": 2017,
+  "title": "Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1703.06907"
+ },
+ "arxiv:1710.06537": {
+  "authors": [
+   "Peng X.B.",
+   "Andrychowicz M.",
+   "Zaremba W.",
+   "Abbeel P."
+  ],
+  "year": 2017,
+  "title": "Sim-to-Real Transfer of Robotic Control with Dynamics Randomization",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1710.06537"
+ },
+ "arxiv:1912.01703": {
+  "authors": [
+   "Paszke A.",
+   "Gross S.",
+   "Massa F.",
+   "Lerer A.",
+   "Bradbury J.",
+   "Chanan G.",
+   "Killeen T.",
+   "Lin Z.",
+   "Gimelshein N.",
+   "Antiga L.",
+   "Desmaison A.",
+   "Köpf A.",
+   "Yang E.",
+   "DeVito Z.",
+   "Raison M.",
+   "Tejani A.",
+   "Chilamkurthy S.",
+   "Steiner B.",
+   "Fang L.",
+   "Bai J.",
+   "Chintala S."
+  ],
+  "year": 2019,
+  "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1912.01703"
+ },
+ "arxiv:2108.13264": {
+  "authors": [
+   "Agarwal R.",
+   "Schwarzer M.",
+   "Castro P.S.",
+   "Courville A.",
+   "Bellemare M.G."
+  ],
+  "year": 2021,
+  "title": "Deep Reinforcement Learning at the Edge of the Statistical Precipice",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "2108.13264"
+ },
+ "arxiv:1707.06347": {
+  "authors": [
+   "Schulman J.",
+   "Wolski F.",
+   "Dhariwal P.",
+   "Radford A.",
+   "Klimov O."
+  ],
+  "year": 2017,
+  "title": "Proximal Policy Optimization Algorithms",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1707.06347"
+ },
+ "arxiv:2510.01269": {
+  "authors": [
+   "Thorat R.V.",
+   "Singh J.",
+   "Nayek R."
+  ],
+  "year": 2025,
+  "title": "Safe Reinforcement Learning-Based Vibration Control: Overcoming Training Risks with LQR Guidance",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "2510.01269"
+ },
+ "arxiv:2309.01909": {
+  "authors": [
+   "Banerjee C.",
+   "Nguyen K.",
+   "Fookes C.",
+   "Raissi M."
+  ],
+  "year": 2023,
+  "title": "A Survey on Physics Informed Reinforcement Learning: Review and Open Problems",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "2309.01909"
+ },
+ "arxiv:2009.13303": {
+  "authors": [
+   "Zhao W.",
+   "Queralta J.P.",
+   "Westerlund T."
+  ],
+  "year": 2020,
+  "title": "Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "2009.13303"
+ },
+ "arxiv:1509.02971": {
+  "authors": [
+   "Lillicrap T.P.",
+   "Hunt J.J.",
+   "Pritzel A.",
+   "Heess N.",
+   "Erez T.",
+   "Tassa Y.",
+   "Silver D.",
+   "Wierstra D."
+  ],
+  "year": 2015,
+  "title": "Continuous control with deep reinforcement learning",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1509.02971"
+ },
+ "arxiv:1412.6980": {
+  "authors": [
+   "Kingma D.P.",
+   "Ba J."
+  ],
+  "year": 2014,
+  "title": "Adam: A Method for Stochastic Optimization",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1412.6980"
+ },
+ "arxiv:1506.02438": {
+  "authors": [
+   "Schulman J.",
+   "Moritz P.",
+   "Levine S.",
+   "Jordan M.",
+   "Abbeel P."
+  ],
+  "year": 2015,
+  "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1506.02438"
+ },
+ "arxiv:2301.02714": {
+  "authors": [
+   "BabaAhmadi A.",
+   "ShariatPanahi M.",
+   "Ayati M."
+  ],
+  "year": 2023,
+  "title": "A Deep Reinforcement Learning-Based Controller for Magnetorheological-Damped Vehicle Suspension",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "2301.02714"
+ },
+ "arxiv:1808.00177": {
+  "authors": [
+   "OpenAI ",
+   "Andrychowicz M.",
+   "Baker B.",
+   "Chociej M.",
+   "Jozefowicz R.",
+   "McGrew B.",
+   "Pachocki J.",
+   "Petron A.",
+   "Plappert M.",
+   "Powell G.",
+   "Ray A.",
+   "Schneider J.",
+   "Sidor S.",
+   "Tobin J.",
+   "Welinder P.",
+   "Weng L.",
+   "Zaremba W."
+  ],
+  "year": 2018,
+  "title": "Learning Dexterous In-Hand Manipulation",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1808.00177"
+ },
+ "arxiv:2103.07616": {
+  "authors": [
+   "Eshkevari S.S.",
+   "Eshkevari S.S.",
+   "Sen D.",
+   "Pakzad S.N."
+  ],
+  "year": 2021,
+  "title": "RL-Controller: a reinforcement learning framework for active structural control",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "2103.07616"
+ },
+ "arxiv:1710.06542": {
+  "authors": [
+   "Pinto L.",
+   "Andrychowicz M.",
+   "Welinder P.",
+   "Zaremba W.",
+   "Abbeel P."
+  ],
+  "year": 2017,
+  "title": "Asymmetric Actor Critic for Image-Based Robot Learning",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1710.06542"
+ },
+ "arxiv:1610.01283": {
+  "authors": [
+   "Rajeswaran A.",
+   "Ghotra S.",
+   "Ravindran B.",
+   "Levine S."
+  ],
+  "year": 2016,
+  "title": "EPOpt: Learning Robust Neural Network Policies Using Model Ensembles",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1610.01283"
+ },
+ "arxiv:1802.09477": {
+  "authors": [
+   "Fujimoto S.",
+   "Hoof H.v.",
+   "Meger D."
+  ],
+  "year": 2018,
+  "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+  "venue": "arXiv preprint",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "doi": null,
+  "arxiv": "1802.09477"
+ },
+ "cha2013": {
+  "authors": [
+   "Cha Y.J.",
+   "Agrawal A.K.",
+   "Dyke S.J."
+  ],
+  "year": 2013,
+  "title": "Time delay effects on large-scale MR damper based semi-active control strategies",
+  "venue": "Smart Materials and Structures",
+  "vol": "22",
+  "issue": "1",
+  "page": "015011",
+  "doi": "10.1088/0964-1726/22/1/015011"
+ },
+ "agrawal2000": {
+  "authors": [
+   "Agrawal A.K.",
+   "Yang J.N."
+  ],
+  "year": 2000,
+  "title": "Compensation of time-delay for control of civil engineering structures",
+  "venue": "Earthquake Engineering & Structural Dynamics",
+  "vol": "29",
+  "issue": "1",
+  "page": "37-62",
+  "doi": "10.1002/(sici)1096-9845(200001)29:1<37::aid-eqe894>3.0.co;2-a"
+ },
+ "welch1947": {
+  "authors": [
+   "WELCH B.L."
+  ],
+  "year": 1947,
+  "title": "THE GENERALIZATION OF ‘STUDENT'S’ PROBLEM WHEN SEVERAL DIFFERENT POPULATION VARLANCES ARE INVOLVED",
+  "venue": "Biometrika",
+  "vol": "34",
+  "issue": "1-2",
+  "page": "28-35",
+  "doi": "10.1093/biomet/34.1-2.28"
+ },
+ "mann1947": {
+  "authors": [
+   "Mann H.B.",
+   "Whitney D.R."
+  ],
+  "year": 1947,
+  "title": "On a Test of Whether one of Two Random Variables is Stochastically Larger than the Other",
+  "venue": "The Annals of Mathematical Statistics",
+  "vol": "18",
+  "issue": "1",
+  "page": "50-60",
+  "doi": "10.1214/aoms/1177730491"
+ }
+}

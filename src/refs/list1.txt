@@ -1,0 +1,41 @@
+dyke1996|10.1088/0964-1726/5/5/006
+spencer1997|10.1061/(ASCE)0733-9399(1997)123:3(230)
+dyke1998|Dyke Spencer Sain Carlson An experimental study of MR dampers for seismic protection Smart Materials and Structures 1998
+jansen2000|10.1061/(ASCE)0733-9399(2000)126:8(795)
+housner1997|10.1061/(ASCE)0733-9399(1997)123:9(897)
+spencer2003|10.1061/(ASCE)0733-9445(2003)129:7(845)
+soong2002|Soong Spencer Supplemental energy dissipation: state-of-the-art and state-of-the-practice Engineering Structures 2002
+symans1999|Symans Constantinou Semi-active control systems for seismic protection of structures: a state-of-the-art review Engineering Structures 1999
+ohtori2004|10.1061/(ASCE)0733-9399(2004)130:4(366)
+yoshida2004|Yoshida Dyke Seismic control of a nonlinear benchmark building using smart dampers Journal of Engineering Mechanics 2004
+yang2002|Yang Spencer Carlson Sain Large-scale MR fluid dampers: modeling and dynamic performance considerations Engineering Structures 2002
+bitaraf2010|Bitaraf Ozbulut Hurlebaus Barroso Application of semi-active control strategies for seismic protection of buildings with MR dampers Engineering Structures 2010
+schurter2001|Schurter Roschke Neuro-fuzzy control of structures using magnetorheological dampers 2001
+banihani2006|Bani-Hani Sheban Semi-active neuro-control for base-isolation system using magnetorheological (MR) dampers Earthquake Engineering Structural Dynamics 2006
+khalat2019|10.1002/stc.2298
+zhang2023|10.1155/2023/6770137
+kim2023|10.3390/app13042053
+panda2024|10.1061/PPSCFX.SCENG-1455
+kouts2026|10.1155/stc/9603014
+asai2026|Asai Control Force Characteristics and Seismic Control Performance Produced by Deep Reinforcement Learning Structural Control and Health Monitoring
+seismind|SeisMind: A domain-knowledge-informed reinforcement learning framework for intelligent control of structural seismic response
+gheni2024|Gheni A deep reinforcement learning framework to modify LQR for an active vibration control applied to 2D building models Open Engineering
+zhangbeam2025|10.1177/10775463241264112
+cable|semi-active control strategy deep reinforcement learning magneto-rheological damper vibration control of tensile cables scale model test
+mnih2015|10.1038/nature14236
+raissi2019|10.1016/j.jcp.2018.10.045
+karniadakis2021|10.1038/s42254-021-00314-5
+kaelbling1998|10.1016/S0004-3702(98)00023-X
+rockafellar2000|10.21314/JOR.2000.038
+vamvatsikos2002|10.1002/eqe.141
+efron1979|10.1214/aos/1176344552
+kalman1960|10.1115/1.3662552
+rezaeian2008|10.1002/eqe.831
+muratore2022|10.3389/frobt.2022.799893
+lam2015|10.1145/2833157.2833162
+tobin2017|Tobin Domain randomization for transferring deep neural networks from simulation to the real world IROS 2017
+peng2018|Peng Sim-to-real transfer of robotic control with dynamics randomization ICRA 2018
+pinto2018|Pinto Asymmetric actor critic for image-based robot learning Robotics Science and Systems 2018
+openai2020|Learning dexterous in-hand manipulation International Journal of Robotics Research 2020
+kwok1995|Kwok Ha Nguyen Li Samali Bouc-Wen model parameter identification for a MR fluid damper using computationally efficient GA
+wen1976|Wen Method for random vibration of hysteretic systems Journal of the Engineering Mechanics Division 1976

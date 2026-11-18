@@ -1,0 +1,216 @@
+{
+ "1801.01290": {
+  "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+  "authors": [
+   "Tuomas Haarnoja",
+   "Aurick Zhou",
+   "Pieter Abbeel",
+   "Sergey Levine"
+  ],
+  "year": "2018"
+ },
+ "1703.06907": {
+  "title": "Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World",
+  "authors": [
+   "Josh Tobin",
+   "Rachel Fong",
+   "Alex Ray",
+   "Jonas Schneider",
+   "Wojciech Zaremba",
+   "Pieter Abbeel"
+  ],
+  "year": "2017"
+ },
+ "1710.06537": {
+  "title": "Sim-to-Real Transfer of Robotic Control with Dynamics Randomization",
+  "authors": [
+   "Xue Bin Peng",
+   "Marcin Andrychowicz",
+   "Wojciech Zaremba",
+   "Pieter Abbeel"
+  ],
+  "year": "2017"
+ },
+ "1912.01703": {
+  "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+  "authors": [
+   "Adam Paszke",
+   "Sam Gross",
+   "Francisco Massa",
+   "Adam Lerer",
+   "James Bradbury",
+   "Gregory Chanan",
+   "Trevor Killeen",
+   "Zeming Lin",
+   "Natalia Gimelshein",
+   "Luca Antiga",
+   "Alban Desmaison",
+   "Andreas K\u00f6pf",
+   "Edward Yang",
+   "Zach DeVito",
+   "Martin Raison",
+   "Alykhan Tejani",
+   "Sasank Chilamkurthy",
+   "Benoit Steiner",
+   "Lu Fang",
+   "Junjie Bai",
+   "Soumith Chintala"
+  ],
+  "year": "2019"
+ },
+ "2108.13264": {
+  "title": "Deep Reinforcement Learning at the Edge of the Statistical Precipice",
+  "authors": [
+   "Rishabh Agarwal",
+   "Max Schwarzer",
+   "Pablo Samuel Castro",
+   "Aaron Courville",
+   "Marc G. Bellemare"
+  ],
+  "year": "2021"
+ },
+ "1707.06347": {
+  "title": "Proximal Policy Optimization Algorithms",
+  "authors": [
+   "John Schulman",
+   "Filip Wolski",
+   "Prafulla Dhariwal",
+   "Alec Radford",
+   "Oleg Klimov"
+  ],
+  "year": "2017"
+ },
+ "2510.01269": {
+  "title": "Safe Reinforcement Learning-Based Vibration Control: Overcoming Training Risks with LQR Guidance",
+  "authors": [
+   "Rohan Vitthal Thorat",
+   "Juhi Singh",
+   "Rajdip Nayek"
+  ],
+  "year": "2025"
+ },
+ "2309.01909": {
+  "title": "A Survey on Physics Informed Reinforcement Learning: Review and Open Problems",
+  "authors": [
+   "Chayan Banerjee",
+   "Kien Nguyen",
+   "Clinton Fookes",
+   "Maziar Raissi"
+  ],
+  "year": "2023"
+ },
+ "2009.13303": {
+  "title": "Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey",
+  "authors": [
+   "Wenshuai Zhao",
+   "Jorge Pe\u00f1a Queralta",
+   "Tomi Westerlund"
+  ],
+  "year": "2020"
+ },
+ "1509.02971": {
+  "title": "Continuous control with deep reinforcement learning",
+  "authors": [
+   "Timothy P. Lillicrap",
+   "Jonathan J. Hunt",
+   "Alexander Pritzel",
+   "Nicolas Heess",
+   "Tom Erez",
+   "Yuval Tassa",
+   "David Silver",
+   "Daan Wierstra"
+  ],
+  "year": "2015"
+ },
+ "1412.6980": {
+  "title": "Adam: A Method for Stochastic Optimization",
+  "authors": [
+   "Diederik P. Kingma",
+   "Jimmy Ba"
+  ],
+  "year": "2014"
+ },
+ "1506.02438": {
+  "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+  "authors": [
+   "John Schulman",
+   "Philipp Moritz",
+   "Sergey Levine",
+   "Michael Jordan",
+   "Pieter Abbeel"
+  ],
+  "year": "2015"
+ },
+ "2301.02714": {
+  "title": "A Deep Reinforcement Learning-Based Controller for Magnetorheological-Damped Vehicle Suspension",
+  "authors": [
+   "AmirReza BabaAhmadi",
+   "Masoud ShariatPanahi",
+   "Moosa Ayati"
+  ],
+  "year": "2023"
+ },
+ "1808.00177": {
+  "title": "Learning Dexterous In-Hand Manipulation",
+  "authors": [
+   " OpenAI",
+   "Marcin Andrychowicz",
+   "Bowen Baker",
+   "Maciek Chociej",
+   "Rafal Jozefowicz",
+   "Bob McGrew",
+   "Jakub Pachocki",
+   "Arthur Petron",
+   "Matthias Plappert",
+   "Glenn Powell",
+   "Alex Ray",
+   "Jonas Schneider",
+   "Szymon Sidor",
+   "Josh Tobin",
+   "Peter Welinder",
+   "Lilian Weng",
+   "Wojciech Zaremba"
+  ],
+  "year": "2018"
+ },
+ "2103.07616": {
+  "title": "RL-Controller: a reinforcement learning framework for active structural control",
+  "authors": [
+   "Soheila Sadeghi Eshkevari",
+   "Soheil Sadeghi Eshkevari",
+   "Debarshi Sen",
+   "Shamim N. Pakzad"
+  ],
+  "year": "2021"
+ },
+ "1710.06542": {
+  "title": "Asymmetric Actor Critic for Image-Based Robot Learning",
+  "authors": [
+   "Lerrel Pinto",
+   "Marcin Andrychowicz",
+   "Peter Welinder",
+   "Wojciech Zaremba",
+   "Pieter Abbeel"
+  ],
+  "year": "2017"
+ },
+ "1610.01283": {
+  "title": "EPOpt: Learning Robust Neural Network Policies Using Model Ensembles",
+  "authors": [
+   "Aravind Rajeswaran",
+   "Sarvjeet Ghotra",
+   "Balaraman Ravindran",
+   "Sergey Levine"
+  ],
+  "year": "2016"
+ },
+ "1802.09477": {
+  "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+  "authors": [
+   "Scott Fujimoto",
+   "Herke van Hoof",
+   "David Meger"
+  ],
+  "year": "2018"
+ }
+}
