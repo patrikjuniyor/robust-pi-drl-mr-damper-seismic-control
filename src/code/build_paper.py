@@ -1034,9 +1034,11 @@ P.P("The simulation, training, evaluation and analysis code (Python: NumPy, SciP
     "the PEER strong-motion database [59]. They are included for reproducibility only and remain subject to the terms of their "
     "original sources; gmspy itself is distributed under the GNU General Public License. The parameters of the six-storey model "
     "were taken from secondary sources (Section 3.1), so the model is patterned after the original example rather than being an "
-    "exact replica of it." if BLIND else
-    "exact replica of it. Correspondence and requests for the code and data should be addressed to Hassan Alizadeh, "
-    "Semnan University, Semnan, Iran (h.alizadeh@semnan.ac.ir).")
+    "exact replica of it. An anonymised copy of the complete code, the trained policies and the per-scenario results is "
+    "available to reviewers at https://anonymous.4open.science/ (link to be inserted by the author)." if BLIND else
+    "exact replica of it. The complete code, the trained policies and the per-scenario results are openly available at "
+    "https://github.com/patrikjuniyor/robust-pi-drl-mr-damper-seismic-control (release v1.0); correspondence should be "
+    "addressed to Hassan Alizadeh, Semnan University, Semnan, Iran (h.alizadeh@semnan.ac.ir).")
 
 P.H("Declaration", 1)
 P.P("**Funding.** This research received no specific grant from any funding agency in the public, commercial or not-for-profit "
